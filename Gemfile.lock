@@ -1,12 +1,12 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    httpclient (2.3.3)
+    curb (0.8.3)
     nokogiri (1.5.9)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  httpclient
+  curb
   nokogiri
